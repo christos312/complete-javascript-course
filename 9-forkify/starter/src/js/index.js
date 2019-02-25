@@ -1,1 +1,1 @@
-// Global app controller
+import { add, multiple } from './views/searchView';
